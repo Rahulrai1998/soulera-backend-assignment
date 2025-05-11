@@ -1,0 +1,17 @@
+{
+  "name": "soulera-backend-assignment",
+  "version": "1.0.0",
+  "description": "E-commerce platform graphql API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^5.1.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7"
+  }
+}
